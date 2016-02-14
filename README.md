@@ -4,8 +4,8 @@
 
 ## What you need to know
 
-This repo is setup and intended to be used with the [Small Victories gem](http://github.com/xxix/smallvictories-gem).
+[The site](http://dijkstra.io/v0/) is compiled with the [Small Victories gem](http://github.com/xxix/smallvictories-gem).
 
-A Styleguide is auto-generated into `styleguide/` with [Hologram](https://github.com/trulia/hologram) and styled with [GitHub inspired theme](https://github.com/wearecube/hologram-github-theme).
+A [Styleguide](http://dijkstra.io/v0/styleguide/) is auto-generated into `styleguide/` with [Hologram](https://github.com/trulia/hologram) and styled with [GitHub inspired theme](https://github.com/wearecube/hologram-github-theme).
 
 The layout includes [jQuery](https://jquery.com/), [Modernizr](https://modernizr.com/) and [Respond](https://github.com/scottjehl/Respond).
